@@ -17,12 +17,7 @@ I'm Srijan from India, and I Build Machine Learning Models. I am highly passiona
 - 😄 Pronouns: He
 - ⚡ Fun fact: I know it's crazy, but I love to talk a lot !!😁 
 
-## My Works😊
-<div class="works">
-  <img src="https://github.com/ruds18/ruds18/blob/main/ezgif.com-gif-maker.gif" width="260" />
-<img src="https://github.com/ruds18/ruds18/blob/main/output_bfymn0.gif" width ="260" />
-  <img src="https://github.com/ruds18/react-apps/blob/main/dmeop.gif" width="260" />
-  </div>
+
 
 
 ## Overview😎
